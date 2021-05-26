@@ -64,7 +64,7 @@
     </key>
     <key name="floating-dock-indicator" type="as">
       <default>["dot", "left"]</default>
-      <summary>Appliation indicator type</summary>
+      <summary>Application indicator type</summary>
       <description>
       </description>
     </key>
